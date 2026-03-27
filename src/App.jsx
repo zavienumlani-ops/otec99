@@ -892,32 +892,44 @@ const CX_DATA = [
           {
             q: 'How much of the global renewable energy market is one Arctic OTEC program?',
             goal: 'De-link from Sokhanvar & Sohag — their study covers the total global energy transition, not one program',
+            answer:
+              'Sokhanvar proves even marginal renewable substitution is a proven threat — the trend starts with programs exactly like this one.',
           },
           {
             q: "Your Fenton & Kolyandr card says Russia 'weathered the storm dramatically better than expected' under FULL Western sanctions. Sanctions are bigger than one OTEC program — right?",
             goal: "Use their own Uniqueness card (Fenton) to show non-unique impact — if sanctions didn't collapse Russia, one program won't",
             answer:
-              "Yes that's what Fenton says, but Sokhanvar proves ANY clean energy expansion is a proven threat.",
+              "Yes that's what Fenton says, but Sokhanvar proves ANY clean energy expansion is a proven threat — it's the direction of travel, not just the scale.",
           },
           {
             q: 'Has the Russian economy collapsed despite oil prices dropping 40% in 2014, again in 2016, and again in 2020?',
             goal: "Historical non-uniqueness — Russia survived 3 oil price crashes; Motyl's collapse scenario is speculative",
+            answer:
+              'Those were temporary price drops — Sokhanvar proves permanent energy substitution is categorically different. It removes demand entirely, not just temporarily.',
           },
           {
             q: 'Does your Motyl impact require Russia to actually LOSE the Ukraine war first?',
             goal: 'Expose that collapse requires multiple prior conditions; the link chain is long and uncertain',
+            answer:
+              'Motyl says Russia faces mutually reinforcing tensions NOW — the Ukraine war is one of several simultaneous pressures. Energy transition is the economic trigger.',
           },
           {
             q: 'Does the plan actually produce enough energy to displace a significant percentage of Russian oil exports?',
             goal: "Force them to quantify — the actual capacity of one Arctic program vs. Russia's export volume",
+            answer:
+              "Olim proves OTEC scales to 3 TW globally — this plan is the first step in that scaling. Smith-Nonini proves Russia's vulnerability means even marginal displacement causes cascading budget effects.",
           },
           {
             q: "How many years does Sokhanvar's study say it takes for renewable growth to measurably reduce Russian oil exports?",
             goal: "Timeframe comparison — the effect is slow, meaning Carrington's climate impact is faster",
+            answer:
+              "The damage is structural and permanent — Sokhanvar's panel data shows the effect compounds over time. And Fenton proves Russia is already stressed, so the threshold for collapse is lower than it used to be.",
           },
           {
             q: "If Russian economic instability leads to civil war (Motyl), doesn't that mean Russia is LESS able to use its nuclear weapons strategically?",
             goal: 'Turn the nuclear impact — civil war scenarios reduce command and control, which actually weakens offensive nuclear capability',
+            answer:
+              "Motyl's scenario is specifically about loss of central control — which means nuclear weapons in the hands of multiple competing factions, not zero nukes. Kissinger's 'contested vacuum' is the nightmare scenario.",
           },
         ],
       },
@@ -935,22 +947,32 @@ const CX_DATA = [
           {
             q: 'Olim et al. 2025, published in Nature, models 3 TW of OTEC and finds no adverse effects on ocean circulation for 500 years. Does your Tabary-Devisme card answer Olim specifically?',
             goal: "Force them to engage with the strongest AFF evidence — Tabary-Devisme predates and doesn't address Olim's modeling",
+            answer:
+              "Tabary-Devisme is about local discharge point effects — dead zones near the plant. Olim is about global thermohaline circulation. They're different scales and both can be true simultaneously.",
           },
           {
             q: 'Does a carbon tax (Dowdey) stop the warming that your Sommerkorn card says is destroying Arctic sea ice at 13% per decade?',
             goal: "Turn: the CP doesn't actually stop the uniqueness harm — only OTEC (+ DACCS) does negative emissions",
+            answer:
+              "Dowdey's carbon tax slows future emissions — it doesn't remove existing CO₂. Only OTEC-powered DACCS (Olim) achieves negative emissions. The CP can't stop Sommerkorn's uniqueness harm.",
           },
           {
             q: "Carmack 2019 says the Arctic Ocean drives the global climate system. Doesn't that mean stopping Arctic warming — which OTEC does — is MORE important than avoiding OTEC's local effects?",
             goal: 'Use Carmack against themselves — their own impact card justifies the plan by showing how important Arctic stability is',
+            answer:
+              "Carmack proves why the Arctic matters — but Tabary-Devisme proves OTEC disrupts the very ocean system Carmack says is critical. That's exactly why we need to study OTEC's effects carefully before deployment.",
           },
           {
             q: 'How many dead zones currently exist in the Arctic from industrial activity — before OTEC?',
             goal: 'Context: industrial fishing, shipping, and drilling already cause dead zones; OTEC adds marginally, not categorically',
+            answer:
+              'Industrial dead zones prove the problem is real and ongoing — OTEC adding more dead zones compounds existing harm to an already stressed ecosystem per Sommerkorn.',
           },
           {
             q: "Does Tabary-Devisme say dead zones are CERTAIN from OTEC, or does he say they are a risk that 'must be taken into account'?",
             goal: 'Downgrade the link from certainty to possibility — Tabary-Devisme is precautionary, not definitive',
+            answer:
+              "He says the risks 'must be taken into account' BEFORE construction. The plan doesn't include any environmental review — it funds deployment directly. So we're doing exactly what Tabary-Devisme warns against.",
           },
         ],
       },
@@ -979,10 +1001,14 @@ const CX_DATA = [
           {
             q: 'Has the United States ever successfully passed a federal carbon tax?',
             goal: 'Competitiveness — the CP may not be politically feasible, reducing solvency',
+            answer:
+              'A carbon tax has never passed Congress — Dowdey describes how it works in theory. The CP asks you to vote on a policy the US has repeatedly rejected while the plan is a feasible federal investment program.',
           },
           {
             q: 'Does Dowdey say a carbon tax alone is sufficient to keep warming below 1.5°C?',
             goal: 'Solvency deficit — Carrington says only 6% of experts think 1.5°C is achievable; carbon tax alone is insufficient',
+            answer:
+              "Dowdey says carbon tax reduces emissions and incentivizes clean energy — it doesn't make a 1.5°C claim. Carrington proves we need negative emissions, which only OTEC+DACCS provides.",
           },
         ],
       },
@@ -999,18 +1025,26 @@ const CX_DATA = [
           {
             q: "Does Neumann's degrowth alternative remove CO₂ that's already in the atmosphere?",
             goal: "Alt fails on negative emissions — Olim's DACCS removes existing CO₂; degrowth only addresses future production",
+            answer:
+              "Degrowth reduces future emissions by shrinking the economy — it doesn't remove existing CO₂. Carrington proves we need carbon removal NOW. Olim's DACCS does that; degrowth doesn't.",
           },
           {
             q: "How many people could be displaced while we wait for capitalism to be replaced per Neumann's alternative?",
             goal: 'Turn: Carrington proves billions face displacement NOW; urgency makes waiting for degrowth unconscionable',
+            answer:
+              "Carrington proves millions are already displaced and billions more are at risk. Neumann's alternative requires a complete restructuring of the global economy — there is no timeline for that. The plan acts now.",
           },
           {
             q: 'Can you name a country that has successfully implemented degrowth as national policy?',
             goal: 'Alternative fails — no empirical evidence degrowth can be implemented at scale or speed needed',
+            answer:
+              'Degrowth has been implemented in academic models and small communities — but never at the national scale needed to address global warming. The alt is unproven while climate collapse is happening now per Carrington.',
           },
           {
             q: "If Chomsky says technology greenwashes capitalism, does that mean we shouldn't build wind or solar farms either?",
             goal: "Permutation — Chomsky's logic proves too much; it would block all technological climate solutions",
+            answer:
+              "Chomsky's argument applies to corporate-owned renewable tech that generates profit — not federal public investment. The plan is government-funded like the interstate highway system, not a private green tech company.",
           },
         ],
       },
@@ -1028,24 +1062,32 @@ const CX_DATA = [
           {
             q: "If the plan increases scientific data about Arctic warming — 4× faster, 13%/decade ice loss — how does that undermine the Arctic Council's climate work?",
             goal: 'The link (Shankman) is backwards; more data makes denialism harder, not easier',
+            answer:
+              "Shankman says US leadership gives Trump a PLATFORM in multilateral forums. The data itself doesn't undermine anything — it's Trump using the platform to push denial that's the harm.",
           },
           {
             q: "Is Trump's climate denial happening right now without the plan?",
             goal: "Non-unique on the link — Shankman's harm exists in the status quo; the plan doesn't cause it",
             answer:
-              'The point is the plan gives Trump a new PLATFORM to push denialism into multilateral forums.',
+              "Yes — but right now Trump has no Arctic Council platform because cooperation is paused. The plan RESTORES that platform and gives Trump access to multilateral climate forums he doesn't currently have.",
           },
           {
             q: 'Does your Spence uniqueness card say the Arctic Council is currently paused or functioning?',
             goal: 'Expose the uniqueness: the Arctic Council has been paused since 2022; the plan RESTORES it, not undermines it',
+            answer:
+              "Spence describes the Council as fragile but functioning — that was written before the 2022 pause. Devyatkin 2024 is more current and confirms the pause. Either way the plan restores cooperation that's currently suspended.",
           },
           {
             q: 'Has Trump been able to stop the EU or other nations from publishing Arctic climate data?',
             goal: "No internal link — Trump's denialism affects US agencies but not global science; the Arctic Council is multinational",
+            answer:
+              "Trump can't stop EU nations — but the Arctic Council operates by consensus. One member pushing climate denial can block joint statements and coordinated action, which is what Shankman specifically warns about.",
           },
           {
             q: "Does the DA's impact card, Carrington 2024, support AFF's argument that climate change is a crisis requiring more action?",
             goal: "Cross-apply — Carrington is a shared card; its existence proves the need for AFF's plan, not against it",
+            answer:
+              'Carrington proves climate change is catastrophic — which is WHY the plan is necessary. But the DA says the PLAN makes climate response WORSE by giving Trump a multilateral platform. Carrington proves the stakes, Shankman proves why the plan is the wrong response.',
           },
         ],
       },
@@ -1062,24 +1104,32 @@ const CX_DATA = [
           {
             q: 'Can the US and EU both grow scientifically at the same time?',
             goal: "No zero-sum — Broers' internal link assumes US growth cancels EU growth; that's not how science works",
+            answer:
+              "Broers says the EU's opportunity comes specifically from US RETREAT — if the US re-engages, the window closes. It's not that both can't grow; it's that EU leadership depends on the US stepping back.",
           },
           {
             q: "Does Broers' EU leadership argument depend on EU having more scientists, or on EU having stronger institutions?",
             goal: "No internal link — EU democratic leadership is about institutions, not personnel; brain drain doesn't affect institutions",
             answer:
-              'Broers says leadership requires BOTH — capability AND credibility, which scientists bring.',
+              'Broers says leadership requires BOTH capability (scientists) AND credibility. Porter & Cohen prove the scientists are coming to EU now. Without them, EU institutions lack the capability to lead on emerging tech governance.',
           },
           {
             q: "If democratic decline leads to war (Belfield), and AFF's Russia ADV prevents nuclear war (Klare), which impact is larger?",
             goal: 'Impact comparison: Klare nuclear WWIII > Belfield democratic decline on magnitude',
+            answer:
+              "Belfield's democratic decline causes wars — but wars already happen in non-democratic contexts. Klare's nuclear WWIII is categorically larger. The EU DA's impact is captured by the Russia ADV's solvency.",
           },
           {
             q: "Is the EU currently unified on Russia policy given Hungary's veto record?",
             goal: 'Non-unique on EU DA uniqueness — EU is internally divided; its leadership position is already weakened independent of the plan',
+            answer:
+              'Hungary proves the EU faces internal challenges — but Broers argues those challenges make strong EU scientific leadership MORE important, not less, to demonstrate EU credibility as a unified actor.',
           },
           {
             q: 'Does your EU CP (Mayet) also require EU scientists — meaning the CP has the same link to your EU DA as the plan does?',
             goal: 'Turn the net benefit: EU CP also draws on EU scientific resources, linking to EU DA',
+            answer:
+              "The CP draws on existing EU scientists — it doesn't reverse the brain drain from the US. The plan STOPS the brain drain, which is what links to the EU DA. The CP doesn't change US conditions so the drain continues either way.",
           },
         ],
       },
@@ -1173,10 +1223,14 @@ const CX_DATA = [
           {
             q: "Does the US federal government have the technical agencies to oversee Arctic OTEC development after Trump's budget cuts per Montgomery?",
             goal: "Cross-apply Research AFF's own inherency against OTEC solvency — gutted agencies can't implement the plan",
+            answer:
+              "The plan provides funding to rebuild those agencies. Montgomery proves the problem; the plan is the solution. And federal contracts can hire private engineers — the government doesn't need to have all expertise in-house.",
           },
           {
             q: "How long does the plan take to have a measurable effect on Arctic warming per I.N.N.'s 13%/decade decline?",
             goal: 'Timeframe question — OTEC development and scaling would take decades; warming impacts are already occurring',
+            answer:
+              'OTEC development takes time — but DACCS can begin carbon removal as soon as plants are operational. Olim proves the technology works. And the 13%/decade decline means every year we delay costs more sea ice permanently.',
           },
         ],
       },
@@ -1193,14 +1247,20 @@ const CX_DATA = [
           {
             q: 'Does your I.N.N. evidence say Arctic warming is caused primarily by Arctic activities, or by global fossil fuel use?',
             goal: "Geographic mismatch — if warming is caused globally, one Arctic OTEC program can't solve it",
+            answer:
+              'Warming is caused globally — but OTEC+DACCS removes CO₂ from the atmosphere globally. The plant is in the Arctic but the carbon capture works on global atmospheric CO₂. Olim proves this.',
           },
           {
             q: "Does Olim's model assume global OTEC deployment or Arctic-only deployment?",
             goal: "Scale mismatch — Olim's 3 TW requires global adoption; one US Arctic program is a tiny fraction",
+            answer:
+              "Olim models global deployment to show safety — it proves even at maximum scale there's no adverse effect. The plan is the first step. Every global solution starts with one country's commitment.",
           },
           {
             q: 'If 25 of 35 vital signs are already at record extremes (Carrington), what evidence shows the plan stops that trend?',
             goal: "Solvency bridge — AFF must show the plan's specific mechanism connecting to Carrington's impact",
+            answer:
+              "Olim proves OTEC powers DACCS which removes existing atmospheric CO₂ — that directly addresses the CO₂ driving Carrington's record extremes. The mechanism is: OTEC energy → DACCS carbon removal → reduced warming → improved vital signs.",
           },
         ],
       },
@@ -1211,14 +1271,20 @@ const CX_DATA = [
           {
             q: 'How many gallons of freshwater per day does an OTEC plant produce relative to Arctic community needs?',
             goal: 'Quantify the gap between OTEC freshwater output and the scale of the Water ADV impact',
+            answer:
+              "O'Reilly doesn't specify gallons — but he says OTEC desalination is a key application specifically for Arctic communities. The plan funds multiple plants. Scale is determined by need and funding, both of which the plan provides.",
           },
           {
             q: "Does O'Reilly say OTEC desalination is cost-competitive with existing freshwater solutions?",
             goal: 'Solvency efficiency — if cheaper alternatives exist, the plan wastes resources on an expensive solution',
+            answer:
+              "O'Reilly says OTEC is promising for desalination in remote Arctic communities where existing freshwater infrastructure is inadequate or non-existent. Cost comparison to 'existing solutions' is irrelevant if those solutions don't reach Arctic communities.",
           },
           {
             q: 'Are Arctic communities currently experiencing water scarcity, or is the harm about future projections?',
             goal: "Inherency question — if water scarcity isn't happening now, urgency is reduced",
+            answer:
+              'Klobucista & Robinson prove water stress is already a global problem getting worse NOW. I.N.N. proves Arctic warming is already disrupting traditional water sources for Indigenous communities. This is present tense, not projection.',
           },
         ],
       },
@@ -1260,10 +1326,14 @@ const CX_DATA = [
           {
             q: 'The plan cooperates with Russia scientifically. Is Russia currently using its Arctic position to stage nuclear weapons per Adler?',
             goal: "Turn the inherency against solvency — if Russia is militarizing the Arctic NOW, science cooperation can't stop it",
+            answer:
+              "Yes — Adler proves Russia IS militarizing. That's exactly WHY cooperation is urgent. Devyatkin 2025 says Arctic cooperation is the key region for US-Russia rapprochement precisely because other channels are blocked by military tensions.",
           },
           {
             q: 'Does Devyatkin 2024 cite any successful scientific cooperation with Russia since 2022?',
             goal: "Solvency gap — if no cooperation has occurred since the pause, the 100-year history doesn't show current viability",
+            answer:
+              'Devyatkin 2024 specifically notes that informal academic conferences with Russian and American researchers still occur. Some narrow openings remain. The plan formalizes and funds those existing informal channels.',
           },
         ],
       },
@@ -1280,14 +1350,20 @@ const CX_DATA = [
           {
             q: 'Does Klare say Arctic conflict would definitely escalate to nuclear war, or that it COULD under certain conditions?',
             goal: 'Downgrade the impact from certainty to possibility — reduce probability weighing',
+            answer:
+              'Klare says the conditions CREATE risk — but so does every nuclear escalation scenario. The question is whether the risk is unacceptable. Klare says yes because no conflict management mechanisms exist in the Arctic unlike every other nuclear theater.',
           },
           {
             q: 'Can you name a single international scientific cooperation program that has prevented a war?',
             goal: "No solvency to impact — there's no evidence that scientific cooperation prevents military escalation",
+            answer:
+              'The Cold War. US-Soviet scientific exchanges contributed to de-escalation throughout decades of nuclear standoff. Devyatkin 2024 proves the Arctic Council was nominated for the Nobel Peace Prize specifically for building trust between adversaries.',
           },
           {
             q: 'Does Parikh & Walport say Arctic science specifically regulates AI, or that science leadership broadly enables AI governance?',
             goal: 'No specific mechanism — the link from Arctic research to AI is attenuated and indirect',
+            answer:
+              "Science leadership broadly — but Hermann 2019 proves Arctic leadership specifically demonstrates US credibility internationally. Credibility is the currency of AI governance forums. You can't shape AI norms without being seen as a serious science actor.",
           },
         ],
       },
@@ -1298,14 +1374,20 @@ const CX_DATA = [
           {
             q: "Is the problem that cooperation DOESN'T exist, or that the US has CHOSEN to withdraw from cooperation?",
             goal: "If the problem is US political will under Trump, passing a law doesn't change Trump's enforcement",
+            answer:
+              "The plan is a federal mandate with appropriated funding — harder to simply ignore than executive preference. And Devyatkin 2025 proves Trump is already pursuing Russia rapprochement, meaning the political will aligns with the plan's direction.",
           },
           {
             q: 'Does Montgomery say scientific cooperation was suspended because of lack of plans, or because of the Ukraine war and Trump policy?',
             goal: "Cause mismatch — the plan doesn't address the actual cause of the breakdown (war + political hostility)",
+            answer:
+              "Both causes. The plan addresses Trump's cuts by funding cooperation directly. Devyatkin 2025 proves the Ukraine situation is shifting with Trump-Putin rapprochement creating a new opening the plan can capitalize on.",
           },
           {
             q: 'If Trump defunds the plan or reverses it, does the advantage still solve?',
             goal: "Durability question — a Trump administration won't faithfully implement scientific cooperation with Russia",
+            answer:
+              'Devyatkin 2025 proves Trump is actively pursuing Russia rapprochement — this plan fits his foreign policy. Federal mandates with specific appropriations are harder to defund than discretionary executive programs. And Devyatkin 2024 shows even informal cooperation continues despite political obstacles.',
           },
         ],
       },
@@ -1315,7 +1397,7 @@ const CX_DATA = [
 
 // ─── TIMER ───────────────────────────────────────────────────────────────────
 function Timer() {
-  const [limit, setLimit] = useState(300);
+  const [limit, setLimit] = useState(360);
   const [elapsed, setElapsed] = useState(0);
   const [running, setRunning] = useState(false);
   const ref = useRef(null);
@@ -1358,6 +1440,7 @@ function Timer() {
         style={{ display: 'flex', gap: 6, marginBottom: 14, flexWrap: 'wrap' }}
       >
         {[
+          [360, '6 min'],
           [300, '5 min'],
           [240, '4 min'],
           [180, '3 min'],
